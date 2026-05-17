@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ambientes virtuais
+venv/
+env/
+.env
+
+# Logs
+*.log
+
+# Uploads temporarios
+data/temp_*
